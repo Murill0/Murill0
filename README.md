@@ -1,6 +1,6 @@
 ### Olá, eu sou o Murill0
 - 🔭 Hoje trabalho com HTML E CSS
-- 🌱 Estudando Python
+- 🌱 Estudando Python e JavaScript
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/Murill0">
