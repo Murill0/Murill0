@@ -1,7 +1,7 @@
 ### Olá, eu sou o Murill0
-- 🔭 Hoje trabalho com HTML E CSS
-- 🌱 Estudando Python e JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje trabalho com React, Node, JavaScript.
+- 🌱 Estudando e aprimorando meus conhecimentos.
+- 😄 Pronouns: ele/dele.
 <div align="center">
   <a href="https://github.com/Murill0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murill0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
